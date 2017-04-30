@@ -221,7 +221,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/nw_images/image1gray.webp');
+  background-image: url('../img/nw_images/image1gray.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -307,7 +307,7 @@ section h3.section-subheading {
   text-transform: none;
 }
 #portfolio {
-  background-image: url('../img//nw_images/image2opac.webp');
+  background-image: url('../img//nw_images/image2opac.png');
   /*opacity: .4;*/
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -555,7 +555,7 @@ section h3.section-subheading {
 }
 section#team {
   background-color: #222222;
-  background-image: url('../img//nw_images/image3opac.webp');
+  background-image: url('../img//nw_images/image3opac.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -589,7 +589,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img//nw_images/about_imageopac.webp');
+  background-image: url('../img//nw_images/about_imageopac.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
